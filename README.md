@@ -1,10 +1,11 @@
-# OTUS PRO Homework 25 Log
+# OTUS PRO Homework 42 Dynamic web
 
-## Домашняя работа 25: Основы сбора и хранения логов
+## Домашняя работа 42: Динамический web
 
 ### Домашнее задание:
 **1. Подготовка рабочего места**   
-**2. В vagrant поднять 2 машины web и log**   
+**2. Развернуть стенд:
+* **nginx + php-fpm (wordpress) + python (django) + js(react/angular)**    
 **3. На web поднимаем nginx**   
 **4. На log настраиваем центральный лог сервер на любой системе на выбор**
 * journald;   
