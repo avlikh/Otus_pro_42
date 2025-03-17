@@ -49,7 +49,7 @@
       tags:
         - docker
 
-    - name: Install docker containers
+    - name: Install docker soft
       become: true
       apt:
         name:
