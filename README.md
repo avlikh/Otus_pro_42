@@ -22,7 +22,7 @@ mkdir -p /opt/otus/dynamic-web ; cd /opt/otus/dynamic-web
 ```
   - Клонируете проект с Github, набрав команду:
 ```
-apt update -y && apt install git -y ; git clone https://github.com/avlikh/Otus_pro_25.git .
+apt update -y && apt install git -y ; git clone https://github.com/avlikh/Otus_pro_42.git .
 ```
   - Запустите проект из папки, в которую склонировали проект (в нашем примере /opt/otus/dynamic-web):
 ```
